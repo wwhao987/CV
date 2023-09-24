@@ -1,6 +1,7 @@
 # CV
 computer vision algorithm
-# structurePreviwe.py 针对BN,LN,GN,SN,WS这几个归一化模块进行了实现
+- structurePreviwe.py
+-  针对BN,LN,GN,SN,WS这几个归一化模块进行了实现
 
 # modules
 - 在本模块中针对yolov5代码中mosaic放法改进，提升了对小物体检测的性能
