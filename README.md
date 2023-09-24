@@ -1,4 +1,6 @@
 # CV
+# 手写数字模型
+- 针对不同的模型来实现手写数字识别的模型搭建
 computer vision algorithm
 - structurePreviwe.py
 -  针对BN,LN,GN,SN,WS这几个归一化模块进行了实现
